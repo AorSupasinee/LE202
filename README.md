@@ -1,6 +1,6 @@
 # LE202
 # Github
-## ขั้นตอนการสมัครสมาชิก Github
+### ขั้นตอนการสมัครสมาชิก Github
 เข้าเว็บไซต์ github.com
 Sing up
 Create your account
