@@ -1,5 +1,5 @@
-# Microcontroller Arduino UNO R3
-CHIP : ATmega328  
+# Arduino UNO R3
+Microcontroller: ATmega328  
 แหล่งจ่ายไฟ : 5v 
 ไฟเข้า(แนะนำ) : 7-12v  
 ไฟเข้า(จำกัดไว้ที่) :6-20v  
@@ -12,8 +12,8 @@ EEPROM : 1 KB
 CLOCK SPEED : 16 MHz  
 ราคา : 910 ฿  
 ลิงค์ : [ thaieasyelec.com ](https://www.thaieasyelec.com/product/73/arduino-uno-r3-บอร์ดเเท้-100gclid=CjwKCAiA9aKQBhBREiwAyGP5lfUVvDvodbd2EqmahfT2KnNgYEoI_iw1fKUnFdnCFyW9ojW1XR8M9hoCH9cQAvD_BwE)  
-# Microcontroller Arduino Due
-CHIP : AT91SAM3X8E  
+# Arduino Due
+Microcontroller: AT91SAM3X8E  
 แหล่งจ่ายไฟ : 3.3v  
 ไฟเข้า(แนะนำ) : 7-12v  
 ไฟเข้า(จำกัดไว้ที่) :6-16v  
@@ -26,8 +26,8 @@ SRAM : 96 KB
 CLOCK SPEED : 84 MHz  
 ราคา : 770 ฿  
 ลิงค์ : [ achardkits.com ](https://www.achardkits.com/product/964/บอร์ด-due-r3-arm-32-bit-พร้อมสาย-micro-usb)  
-# Microcontroller ESP32-DOEDQ6
-Chip: ESP32-D0WD-Q6  
+# ESP32-DOEDQ6
+Microcontroller: ESP32-D0WD-Q6  
 Clock frequency: 240MHz  
 Processor cores: 2  
 SRAM: 520KB  
@@ -40,31 +40,33 @@ Number of analog input pins (ADC): 16
 Number of analog output pins (DAC): 2  
 ราคา : 260 ฿  
 ลิงค์ : [ tinytronics ](https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/esp32-d0wdq6-development-board-with-wi-fi-and-bluetooth)  
-# Microcontroller DOIT ESP32 DevKit V1
-CHIP : ESP-WROOM-32
-แหล่งจ่ายไฟ : 3.3v
-ไฟเข้า(แนะนำ) :
-ไฟเข้า(จำกัดไว้ที่) :
-พอร์ท input/output :
-ANALOG INPUT PINS :
-กระแสไฟฟ้า DC สำหรับขา 3.3v :
-หน่วยความจำ :
-SRAM :
-EEPROM :
-CLOCK SPEED :
-ราคา :
-ลิงค์ :
-# Microcontroller SparkFun RED-V Thing Plus
-CHIP : SiFive Freedom E310 (FE310-G002)
-แหล่งจ่ายไฟ : 3.3v
-ไฟเข้า(แนะนำ) :
-ไฟเข้า(จำกัดไว้ที่) :
-พอร์ท input/output :
-ANALOG INPUT PINS :
-กระแสไฟฟ้า DC สำหรับขา 3.3v :
-หน่วยความจำ :
-SRAM :
-EEPROM :
-CLOCK SPEED :
+# DOIT ESP32 DevKit V1
+Microcontroller: Tensilica 32-bit Single-/Dual-core CPU Xtensa LX6  
+Operating Voltage: 3.3V  
+Input Voltage: 7-12V  
+Digital I/O Pins (DIO): 25  
+Analog Input Pins (ADC): 6  
+Analog Outputs Pins (DAC): 2  
+UARTs: 3  
+SPIs: 2  
+I2Cs: 3  
+Flash Memory: 4 MB  
+SRAM: 520 KB  
+Clock Speed: 240 Mhz  
+Wi-Fi: IEEE 802.11 b/g/n/e/i  
+ราคา : 240 ฿  
+ลิงค์ :[ robotsiam.com ](https://www.robotsiam.com/product/119/doit-esp32-devkit-v1-development-board-wifi-bluetooth)  
+# SparkFun RED-V Thing Plus
+Microcontroller: SiFive Freedom E310 (FE310-G002)  
+    * CPU: SiFive E31 CPU  
+    * Architecture: 32-bit RV32IMAC  
+    * Speed: 150MHz  
+    * Performance: 1.61 DMIPs/MHz  
+    * Memory: 16 KB Instruction Cache, 16 KB Data Scratchpad  
+    * Other Features: Hardware Multiply/Divide, Debug Module, Flexible Clock Generation with on-chip oscillators and PLLs  
+Operating Voltage: 3.3 V and 1.8 V  
+External Wakeup Pins: 1 (& button)  
+Host Interface (USB-C): Program, Debug, and Serial Communication  
+19 digital I/O pins  
 ราคา :
 ลิงค์ :
