@@ -37,3 +37,5 @@ digitalWrite(Relay, LOW);
 }
 delay(500);
 }
+## ศึกษาและค้นคว้าจาก
+APIS - Automated Plant Irrigation System
