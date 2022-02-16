@@ -11,7 +11,7 @@ SRAM : 2 KB
 EEPROM : 1 KB  
 CLOCK SPEED : 16 MHz  
 ราคา : 910 ฿  
-ลิงค์ : [ thaieasyelec ] (https://www.thaieasyelec.com/product/73/arduino-uno-r3-บอร์ดเเท้-100?gclid=CjwKCAiA9aKQBhBREiwAyGP5lfUVvDvodbd2EqmahfT2KnNgYEoI_iw1fKUnFdnCFyW9ojW1XR8M9hoCH9cQAvD_BwE)  
+ลิงค์ : [ thaieasyelec ](https://www.thaieasyelec.com/product/73/arduino-uno-r3-บอร์ดเเท้-100gclid=CjwKCAiA9aKQBhBREiwAyGP5lfUVvDvodbd2EqmahfT2KnNgYEoI_iw1fKUnFdnCFyW9ojW1XR8M9hoCH9cQAvD_BwE)  
 # Microcontroller Arduino Due
 CHIP : AT91SAM3X8E
 แหล่งจ่ายไฟ : 3.3v
