@@ -68,5 +68,5 @@ Operating Voltage: 3.3 V and 1.8 V
 External Wakeup Pins: 1 (& button)  
 Host Interface (USB-C): Program, Debug, and Serial Communication  
 19 digital I/O pins  
-ราคา :
-ลิงค์ :
+ราคา : 970 ฿  
+ลิงค์ : [ sparkfun.com ](https://www.sparkfun.com/products/15799)  
