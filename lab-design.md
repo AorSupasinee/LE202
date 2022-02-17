@@ -38,4 +38,6 @@ digitalWrite(Relay, LOW);
 delay(500);  
 }  
 ## ศึกษาและค้นคว้าจาก
-APIS - Automated Plant Irrigation System
+[APIS - Automated Plant Irrigation System](https://www.instructables.com/APIS-Automated-Plant-Irrigation-System/?=)  
+[Arduino Automatic Watering System for Plants Sprinkler](https://www.instructables.com/Arduino-Automatic-Watering-System-For-Plants/)  
+[ระบบรดน้ำต้นไม้อัตโนมัติโดยใช้ Arduino ควบคุมงบไม่เกิน 400บ.](https://www.ec-bot.com/article/6/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8)
